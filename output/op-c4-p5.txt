@@ -1,0 +1,3 @@
+file.cpp
+Connected to 1 with unique-ID 3765 on port 7000
+found foo.png at 3765 with MD5 2BF131FB6EDB04A3006C17B51E12D488 at depth 1

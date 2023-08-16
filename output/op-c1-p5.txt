@@ -1,0 +1,6 @@
+f1.txt
+foo.png
+Connected to 3 with unique-ID 4526 on port 5000
+Connected to 4 with unique-ID 7291 on port 6000
+found bar.pdf at 1294 with MD5 FE8931AE1A82B04B605946E33878BA0A at depth 2
+found file.cpp at 7291 with MD5 A513DE6E35B2A05E337855C2EBF9DC21 at depth 1
